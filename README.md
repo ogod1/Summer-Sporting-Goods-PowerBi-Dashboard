@@ -1,0 +1,2 @@
+Link to synced Dashboard: 
+https://app.powerbi.com/view?r=eyJrIjoiMjQwNDRlNGQtNGEzYS00Yjk0LWI0NjEtMTRjYThkMWUyNDk4IiwidCI6IjlkZGFhY2ExLTM4OWYtNGNiMS1hMTEzLTA4MWJlNmNjMjVmYyIsImMiOjZ9
